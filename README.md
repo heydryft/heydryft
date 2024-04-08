@@ -12,7 +12,6 @@
   <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
   <br>
 
-  - Mastering Solidity
   - Work 40-50 hours per week
   - Being more focused & productive
 </details>
