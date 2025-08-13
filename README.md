@@ -3,7 +3,9 @@
 
 <img src="assets/website.gif" alt="web developer">
 
-<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jishrocks">GitHub Profile</a></b>. I am currently a <b>Full Stack Developer with 6 years of experience</b>. I’m a self-driven, self-learnt <b>Full-Stack Engineer & AI Enthusiast</b>. My past experiences include the <b>foundation of Ryze</b> - a platform which was focused on robust Ethereum-NFT transaction automations for NFT enthusiasts, investors, and collectors.</p>
+<p align="justify"> I’m Nirupam, a Full Stack Engineer with an entrepreneurial mindset. I’ve built products across web3, SaaS, and high-growth startups — from NFT platforms to scalable backend systems and polished frontends.
+
+I love taking ideas from concept to launch, blending technical expertise with a drive to create solutions that make an impact. Whether it’s writing clean code, optimising workflows, or turning a napkin sketch into a shipped product, I’m all in</p>
 <br>
 
 <details>
